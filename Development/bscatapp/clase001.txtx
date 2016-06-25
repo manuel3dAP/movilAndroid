@@ -1,0 +1,22 @@
+    1  ls
+    2  mkdir Development
+    3  cd Development/
+    4  ruby -v
+    5  rails
+    6  rails -v
+    7  sudo  service  mysql start
+    8  sudo  service  mysql stop
+    9  sudo  service  mysql start
+   10  mysql -u root
+   11  rails new hellomobDevs  mysql
+   12  rake db:create
+   13  sudo  service  mysql start
+   14  rake db:create
+   15  cd hellomobDevs/
+   16  rake db:create
+   17  rails  s -p $PORT -b $IP
+   18  cd ..
+   19  rails  new  bscatapp -d mysql
+   20  cd bscatapp/
+   21  history
+   22  history > clase001.txtx
